@@ -1,0 +1,7 @@
+label,scenario,udp_rate,tcp_rx_bytes,tcp_goodput_mbps,tcp_completion_seconds,tcp_complete,udp_tx_packets,udp_rx_packets,udp_delivery_percent,udp_loss_percent,udp_mean_delay_ms
+TCP only,tcp-only,disabled,4194304,1.86414,7.44007,1,0,0,0,0,0
+UDP only,udp-only,2.5Mbps,0,0,-1,0,5493,5493,100,0,12.7707
+Light,combined,500Kbps,4194304,1.86414,8.27821,1,1098,1098,100,0,29.8713
+Moderate,combined,2.5Mbps,4194304,1.86414,15.0996,1,5493,5458,99.3628,0.637175,57.7871
+Heavy,combined,4.5Mbps,3821568,1.69847,-1,0,9887,6939,70.1831,29.8169,283.248
+QoS Prioritized,combined,4.5Mbps,921600,0.4096,-1,0,9887,9887,100,0,92.5665

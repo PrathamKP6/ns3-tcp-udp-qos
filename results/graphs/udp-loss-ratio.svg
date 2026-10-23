@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+<rect width="100%" height="100%" fill="white"/>
+<text x="550.0" y="45" text-anchor="middle" font-family="Arial" font-size="26" font-weight="bold">UDP Estimated Packet Loss Ratio</text>
+<line x1="110" y1="500.0" x2="1060" y2="500.0" stroke="#dddddd"/>
+<text x="95" y="505.0" text-anchor="end" font-family="Arial" font-size="15">0.0</text>
+<line x1="110" y1="420.0" x2="1060" y2="420.0" stroke="#dddddd"/>
+<text x="95" y="425.0" text-anchor="end" font-family="Arial" font-size="15">20.0</text>
+<line x1="110" y1="340.0" x2="1060" y2="340.0" stroke="#dddddd"/>
+<text x="95" y="345.0" text-anchor="end" font-family="Arial" font-size="15">40.0</text>
+<line x1="110" y1="260.0" x2="1060" y2="260.0" stroke="#dddddd"/>
+<text x="95" y="265.0" text-anchor="end" font-family="Arial" font-size="15">60.0</text>
+<line x1="110" y1="180.0" x2="1060" y2="180.0" stroke="#dddddd"/>
+<text x="95" y="185.0" text-anchor="end" font-family="Arial" font-size="15">80.0</text>
+<line x1="110" y1="100.0" x2="1060" y2="100.0" stroke="#dddddd"/>
+<text x="95" y="105.0" text-anchor="end" font-family="Arial" font-size="15">100.0</text>
+<line x1="110" y1="100" x2="110" y2="500" stroke="#333"/>
+<line x1="110" y1="500" x2="1060" y2="500" stroke="#333"/>
+<text x="25" y="325.0" transform="rotate(-90 25 325.0)" text-anchor="middle" font-family="Arial" font-size="18">Loss (%)</text>
+<text x="189.16666666666669" y="480" text-anchor="middle" font-family="Arial" font-size="15">N/A</text>
+<text x="189.16666666666669" y="530" text-anchor="middle" font-family="Arial" font-size="14">TCP only</text>
+<rect x="306.3333333333333" y="500.0" width="82.33333333333334" height="0.0" fill="#3977b8"/>
+<text x="347.5" y="490.0" text-anchor="middle" font-family="Arial" font-size="15">0.00</text>
+<text x="347.5" y="530" text-anchor="middle" font-family="Arial" font-size="14">UDP only</text>
+<rect x="464.6666666666667" y="500.0" width="82.33333333333334" height="0.0" fill="#3977b8"/>
+<text x="505.83333333333337" y="490.0" text-anchor="middle" font-family="Arial" font-size="15">0.00</text>
+<text x="505.83333333333337" y="530" text-anchor="middle" font-family="Arial" font-size="14">Light</text>
+<rect x="623.0000000000001" y="497.4513" width="82.33333333333334" height="2.5486999999999966" fill="#3977b8"/>
+<text x="664.1666666666667" y="487.4513" text-anchor="middle" font-family="Arial" font-size="15">0.64</text>
+<text x="664.1666666666667" y="530" text-anchor="middle" font-family="Arial" font-size="14">Moderate</text>
+<rect x="781.3333333333334" y="380.7324" width="82.33333333333334" height="119.26760000000002" fill="#3977b8"/>
+<text x="822.5" y="370.7324" text-anchor="middle" font-family="Arial" font-size="15">29.82</text>
+<text x="822.5" y="530" text-anchor="middle" font-family="Arial" font-size="14">Heavy</text>
+<rect x="939.6666666666667" y="500.0" width="82.33333333333334" height="0.0" fill="#3977b8"/>
+<text x="980.8333333333334" y="490.0" text-anchor="middle" font-family="Arial" font-size="15">0.00</text>
+<text x="980.8333333333334" y="530" text-anchor="middle" font-family="Arial" font-size="14">QoS Prioritized</text>
+<text x="550.0" y="615" text-anchor="middle" font-family="Arial" font-size="16">Experiment scenario</text>
+</svg>

@@ -1,0 +1,2 @@
+scenario,udp_rate,bottleneck_mbps,tcp_rx_bytes,tcp_goodput_mbps,tcp_completion_seconds,tcp_complete,udp_tx_packets,udp_rx_packets,udp_delivery_percent,udp_loss_percent,udp_mean_delay_ms
+combined,4.5Mbps,5,921600,0.4096,-1,0,9887,9887,100,0,92.5665
